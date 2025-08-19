@@ -1,0 +1,319 @@
+{
+  "result": 1,
+  "status": 200,
+  "message": "Success",
+  "data": {
+    "ttsList": [
+      {
+        "name": "阳光少年",
+        "speakerId": "genshin_vindi2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/genshin_vindi2.mp3"
+      },
+      {
+        "name": "懂事小弟",
+        "speakerId": "zhinen_xuesheng",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/zhinen_xuesheng.mp3"
+      },
+      {
+        "name": "运动少年",
+        "speakerId": "tiyuxi_xuedi",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/tiyuxi_xuedi.mp3"
+      },
+      {
+        "name": "青春少女",
+        "speakerId": "ai_shatang",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_shatang.mp3"
+      },
+      {
+        "name": "温柔小妹",
+        "speakerId": "genshin_klee2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/genshin_klee2.mp3"
+      },
+      {
+        "name": "元气少女",
+        "speakerId": "genshin_kirara",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/genshin_kirara.mp3"
+      },
+      {
+        "name": "阳光男生",
+        "speakerId": "ai_kaiya",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_kaiya.mp3"
+      },
+      {
+        "name": "幽默小哥",
+        "speakerId": "tiexin_nanyou",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/tiexin_nanyou.mp3"
+      },
+      {
+        "name": "文艺小哥",
+        "speakerId": "ai_chenjiahao_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_chenjiahao_712.mp3"
+      },
+      {
+        "name": "甜美邻家",
+        "speakerId": "girlfriend_1_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/girlfriend_1_speech02.mp3"
+      },
+      {
+        "name": "温柔姐姐",
+        "speakerId": "chat1_female_new-3",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/chat1_female_new-3.mp3"
+      },
+      {
+        "name": "职场女青",
+        "speakerId": "girlfriend_2_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/girlfriend_2_speech02.mp3"
+      },
+      {
+        "name": "活泼男童",
+        "speakerId": "cartoon-boy-07",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/cartoon-boy-07.mp3"
+      },
+      {
+        "name": "俏皮女童",
+        "speakerId": "cartoon-girl-01",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/cartoon-girl-01.mp3"
+      },
+      {
+        "name": "稳重老爸",
+        "speakerId": "ai_huangyaoshi_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_huangyaoshi_712.mp3"
+      },
+      {
+        "name": "温柔妈妈",
+        "speakerId": "you_pingjing",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/you_pingjing.mp3"
+      },
+      {
+        "name": "严肃上司",
+        "speakerId": "ai_laoguowang_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_laoguowang_712.mp3"
+      },
+      {
+        "name": "优雅贵妇",
+        "speakerId": "chengshu_jiejie",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/chengshu_jiejie.mp3"
+      },
+      {
+        "name": "慈祥爷爷",
+        "speakerId": "zhuxi_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/zhuxi_speech02.mp3"
+      },
+      {
+        "name": "唠叨爷爷",
+        "speakerId": "uk_oldman3",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/uk_oldman3.mp3"
+      },
+      {
+        "name": "唠叨奶奶",
+        "speakerId": "laopopo_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/laopopo_speech02.mp3"
+      },
+      {
+        "name": "和蔼奶奶",
+        "speakerId": "heainainai_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/heainainai_speech02.mp3"
+      },
+      {
+        "name": "东北老铁",
+        "speakerId": "dongbeilaotie_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/dongbeilaotie_speech02.mp3"
+      },
+      {
+        "name": "重庆小伙",
+        "speakerId": "chongqingxiaohuo_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/chongqingxiaohuo_speech02.mp3"
+      },
+      {
+        "name": "四川妹子",
+        "speakerId": "chuanmeizi_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/chuanmeizi_speech02.mp3"
+      },
+      {
+        "name": "潮汕大叔",
+        "speakerId": "chaoshandashu_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/chaoshandashu_speech02.mp3"
+      },
+      {
+        "name": "台湾男生",
+        "speakerId": "ai_taiwan_man2_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/ai_taiwan_man2_speech02.mp3"
+      },
+      {
+        "name": "西安掌柜",
+        "speakerId": "xianzhanggui_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/xianzhanggui_speech02.mp3"
+      },
+      {
+        "name": "天津姐姐",
+        "speakerId": "tianjinjiejie_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/tianjinjiejie_speech02.mp3"
+      },
+      {
+        "name": "新闻播报男",
+        "speakerId": "diyinnansang_DB_CN_M_04-v2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/diyinnansang_DB_CN_M_04-v2.wav"
+      },
+      {
+        "name": "译制片男",
+        "speakerId": "yizhipiannan-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/yizhipiannan-v1.wav"
+      },
+      {
+        "name": "元气少女",
+        "speakerId": "guanxiaofang-v2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/guanxiaofang-v2.wav"
+      },
+      {
+        "name": "撒娇女友",
+        "speakerId": "tianmeixuemei-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/tianmeixuemei-v1.wav"
+      },
+      {
+        "name": "刀片烟嗓",
+        "speakerId": "daopianyansang-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/daopianyansang-v1.wav"
+      },
+      {
+        "name": "乖巧正太",
+        "speakerId": "mengwa-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/chinese/mengwa-v1.wav"
+      },
+      {
+        "name": "Sunny",
+        "speakerId": "genshin_vindi2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Sunny%20genshin_vindi2.mp3"
+      },
+      {
+        "name": "Sage",
+        "speakerId": "zhinen_xuesheng",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Sage%20zhinen_xuesheng.mp3"
+      },
+      {
+        "name": "Ace",
+        "speakerId": "AOT",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Ace%20AOT.mp3"
+      },
+      {
+        "name": "Blossom",
+        "speakerId": "ai_shatang",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Blossom%20ai_shatang.mp3"
+      },
+      {
+        "name": "Peppy",
+        "speakerId": "genshin_klee2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Peppy%20genshin_klee2.mp3"
+      },
+      {
+        "name": "Dove",
+        "speakerId": "genshin_kirara",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Dove%20genshin_kirara.mp3"
+      },
+      {
+        "name": "Shine",
+        "speakerId": "ai_kaiya",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Shine%20ai_kaiya.mp3"
+      },
+      {
+        "name": "Anchor",
+        "speakerId": "oversea_male1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Anchor%20oversea_male1.mp3"
+      },
+      {
+        "name": "Lyric",
+        "speakerId": "ai_chenjiahao_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Lyric%20ai_chenjiahao_712.mp3"
+      },
+      {
+        "name": "Melody",
+        "speakerId": "girlfriend_4_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Melody%20girlfriend_4_speech02.mp3"
+      },
+      {
+        "name": "Tender",
+        "speakerId": "chat1_female_new-3",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Tender%20chat1_female_new-3.mp3"
+      },
+      {
+        "name": "Siren",
+        "speakerId": "chat_0407_5-1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Siren%20chat_0407_5-1.mp3"
+      },
+      {
+        "name": "Zippy",
+        "speakerId": "cartoon-boy-07",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Zippy%20cartoon-boy-07.mp3"
+      },
+      {
+        "name": "Bud",
+        "speakerId": "uk_boy1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Bud%20uk_boy1.mp3"
+      },
+      {
+        "name": "Sprite",
+        "speakerId": "cartoon-girl-01",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Sprite%20cartoon-girl-01.mp3"
+      },
+      {
+        "name": "Candy",
+        "speakerId": "PeppaPig_platform",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Candy%20%20PeppaPig_platform.mp3"
+      },
+      {
+        "name": "Beacon",
+        "speakerId": "ai_huangzhong_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Beacon%20ai_huangzhong_712.mp3"
+      },
+      {
+        "name": "Rock",
+        "speakerId": "ai_huangyaoshi_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Rock%20ai_huangyaoshi_712.mp3"
+      },
+      {
+        "name": "Titan",
+        "speakerId": "ai_laoguowang_712",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Titan%20ai_laoguowang_712.mp3"
+      },
+      {
+        "name": "Grace",
+        "speakerId": "chengshu_jiejie",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Grace%20%20chengshu_jiejie.mp3"
+      },
+      {
+        "name": "Helen",
+        "speakerId": "you_pingjing",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Helen%20you_pingjing.mp3"
+      },
+      {
+        "name": "Lore",
+        "speakerId": "calm_story1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Lore%20calm_story1.mp3"
+      },
+      {
+        "name": "Crag",
+        "speakerId": "uk_man2",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Crag%20uk_man2.mp3"
+      },
+      {
+        "name": "Prattle",
+        "speakerId": "laopopo_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Prattle%20laopopo_speech02.mp3"
+      },
+      {
+        "name": "Hearth",
+        "speakerId": "heainainai_speech02",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/Hearth%20laopopo_speech02.mp3"
+      },
+      {
+        "name": "The Reader",
+        "speakerId": "reader_en_m-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/The%20Reader%20reader_en_m-v1.wav"
+      },
+      {
+        "name": "Commercial Lady",
+        "speakerId": "commercial_lady_en_f-v1",
+        "exampleUrl": "https://github.com/josephgodwinkimani/kling-lipsync-voices/raw/refs/heads/main/english/commercial_lady_en_f-v1.wav"
+      }
+    ]
+  }
+}
